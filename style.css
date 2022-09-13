@@ -61,6 +61,8 @@ nav ul {
     background-color: white;
     display: flex;
     justify-content: space-around;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgb(161, 161, 161);
 }
 
 .contentleft {
